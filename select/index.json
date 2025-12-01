@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ココロノカタチ / Rita",
+  "base_artist": "monkichi2010",
+  "createdAt": "2025-12-01T12:06:00.298643Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心のカ・タ・チ",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/pl_01_心のカ・タ・チ_家入レオ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "心のカタチ (studio live)",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/pl_02_心のカタチ_(studio_live)_家入レオ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "心のかたち",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/pl_03_心のかたち_家入レオ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "心のカタチ",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/pl_04_心のカタチ_家入レオ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "心のかたち",
+      "artist": "家入レオ",
+      "has_synced": false,
+      "path": "select/pl_05_心のかたち_家入レオ.txt"
+    }
+  ]
+}
